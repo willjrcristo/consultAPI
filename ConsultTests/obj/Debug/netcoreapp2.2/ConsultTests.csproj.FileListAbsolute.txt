@@ -1,0 +1,17 @@
+C:\Users\willj\source\repos\ConsultAPI\ConsultTests\obj\Debug\netcoreapp2.2\ConsultTests.csprojAssemblyReference.cache
+C:\Users\willj\source\repos\ConsultAPI\ConsultTests\obj\Debug\netcoreapp2.2\ConsultTests.csproj.CoreCompileInputs.cache
+C:\Users\willj\source\repos\ConsultAPI\ConsultTests\obj\Debug\netcoreapp2.2\ConsultTests.AssemblyInfoInputs.cache
+C:\Users\willj\source\repos\ConsultAPI\ConsultTests\obj\Debug\netcoreapp2.2\ConsultTests.AssemblyInfo.cs
+C:\Users\willj\source\repos\ConsultAPI\ConsultTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\willj\source\repos\ConsultAPI\ConsultTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\willj\source\repos\ConsultAPI\ConsultTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\willj\source\repos\ConsultAPI\ConsultTests\bin\Debug\netcoreapp2.2\ConsultTests.deps.json
+C:\Users\willj\source\repos\ConsultAPI\ConsultTests\bin\Debug\netcoreapp2.2\ConsultTests.runtimeconfig.json
+C:\Users\willj\source\repos\ConsultAPI\ConsultTests\bin\Debug\netcoreapp2.2\ConsultTests.runtimeconfig.dev.json
+C:\Users\willj\source\repos\ConsultAPI\ConsultTests\bin\Debug\netcoreapp2.2\ConsultTests.dll
+C:\Users\willj\source\repos\ConsultAPI\ConsultTests\bin\Debug\netcoreapp2.2\ConsultTests.pdb
+C:\Users\willj\source\repos\ConsultAPI\ConsultTests\bin\Debug\netcoreapp2.2\ConsultAPI.dll
+C:\Users\willj\source\repos\ConsultAPI\ConsultTests\bin\Debug\netcoreapp2.2\ConsultAPI.pdb
+C:\Users\willj\source\repos\ConsultAPI\ConsultTests\obj\Debug\netcoreapp2.2\ConsultTests.csproj.CopyComplete
+C:\Users\willj\source\repos\ConsultAPI\ConsultTests\obj\Debug\netcoreapp2.2\ConsultTests.dll
+C:\Users\willj\source\repos\ConsultAPI\ConsultTests\obj\Debug\netcoreapp2.2\ConsultTests.pdb
