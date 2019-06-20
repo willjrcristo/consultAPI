@@ -27,7 +27,8 @@ namespace ConsultAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<ConsultRepository>(opt => opt.UseInMemoryDatabase("Consults"));
+            //services.AddDbContext<ConsultRepository>(opt => opt.UseInMemoryDatabase("Consults"));
+            services.AddDbContext<ConsultRepository>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));            
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 
