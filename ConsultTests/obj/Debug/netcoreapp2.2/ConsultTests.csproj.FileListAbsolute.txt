@@ -9,9 +9,12 @@ C:\Users\willj\source\repos\ConsultAPI\ConsultTests\bin\Debug\netcoreapp2.2\Cons
 C:\Users\willj\source\repos\ConsultAPI\ConsultTests\bin\Debug\netcoreapp2.2\ConsultTests.runtimeconfig.json
 C:\Users\willj\source\repos\ConsultAPI\ConsultTests\bin\Debug\netcoreapp2.2\ConsultTests.runtimeconfig.dev.json
 C:\Users\willj\source\repos\ConsultAPI\ConsultTests\bin\Debug\netcoreapp2.2\ConsultTests.dll
-C:\Users\willj\source\repos\ConsultAPI\ConsultTests\bin\Debug\netcoreapp2.2\ConsultTests.pdb
 C:\Users\willj\source\repos\ConsultAPI\ConsultTests\bin\Debug\netcoreapp2.2\ConsultAPI.dll
+C:\Users\willj\source\repos\ConsultAPI\ConsultTests\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Protocols.dll
 C:\Users\willj\source\repos\ConsultAPI\ConsultTests\bin\Debug\netcoreapp2.2\ConsultAPI.pdb
+C:\Users\willj\source\repos\ConsultAPI\ConsultTests\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Protocols.pdb
+C:\Users\willj\source\repos\ConsultAPI\ConsultTests\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Protocols.xml
 C:\Users\willj\source\repos\ConsultAPI\ConsultTests\obj\Debug\netcoreapp2.2\ConsultTests.csproj.CopyComplete
+C:\Users\willj\source\repos\ConsultAPI\ConsultTests\bin\Debug\netcoreapp2.2\ConsultTests.pdb
 C:\Users\willj\source\repos\ConsultAPI\ConsultTests\obj\Debug\netcoreapp2.2\ConsultTests.dll
 C:\Users\willj\source\repos\ConsultAPI\ConsultTests\obj\Debug\netcoreapp2.2\ConsultTests.pdb

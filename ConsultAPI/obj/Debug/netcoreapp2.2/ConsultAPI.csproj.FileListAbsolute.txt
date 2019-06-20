@@ -1,13 +1,13 @@
+C:\Users\willj\source\repos\ConsultAPI\ConsultAPI\obj\Debug\netcoreapp2.2\ConsultAPI.csproj.CoreCompileInputs.cache
+C:\Users\willj\source\repos\ConsultAPI\ConsultAPI\obj\Debug\netcoreapp2.2\ConsultAPI.AssemblyInfoInputs.cache
+C:\Users\willj\source\repos\ConsultAPI\ConsultAPI\obj\Debug\netcoreapp2.2\ConsultAPI.AssemblyInfo.cs
 C:\Users\willj\source\repos\ConsultAPI\ConsultAPI\bin\Debug\netcoreapp2.2\ConsultAPI.deps.json
 C:\Users\willj\source\repos\ConsultAPI\ConsultAPI\bin\Debug\netcoreapp2.2\ConsultAPI.runtimeconfig.json
 C:\Users\willj\source\repos\ConsultAPI\ConsultAPI\bin\Debug\netcoreapp2.2\ConsultAPI.runtimeconfig.dev.json
 C:\Users\willj\source\repos\ConsultAPI\ConsultAPI\bin\Debug\netcoreapp2.2\ConsultAPI.dll
 C:\Users\willj\source\repos\ConsultAPI\ConsultAPI\bin\Debug\netcoreapp2.2\ConsultAPI.pdb
-C:\Users\willj\source\repos\ConsultAPI\ConsultAPI\obj\Debug\netcoreapp2.2\ConsultAPI.csproj.CoreCompileInputs.cache
 C:\Users\willj\source\repos\ConsultAPI\ConsultAPI\obj\Debug\netcoreapp2.2\ConsultAPI.RazorAssemblyInfo.cache
 C:\Users\willj\source\repos\ConsultAPI\ConsultAPI\obj\Debug\netcoreapp2.2\ConsultAPI.RazorAssemblyInfo.cs
-C:\Users\willj\source\repos\ConsultAPI\ConsultAPI\obj\Debug\netcoreapp2.2\ConsultAPI.AssemblyInfoInputs.cache
-C:\Users\willj\source\repos\ConsultAPI\ConsultAPI\obj\Debug\netcoreapp2.2\ConsultAPI.AssemblyInfo.cs
 C:\Users\willj\source\repos\ConsultAPI\ConsultAPI\obj\Debug\netcoreapp2.2\ConsultAPI.RazorTargetAssemblyInfo.cache
 C:\Users\willj\source\repos\ConsultAPI\ConsultAPI\obj\Debug\netcoreapp2.2\ConsultAPI.dll
 C:\Users\willj\source\repos\ConsultAPI\ConsultAPI\obj\Debug\netcoreapp2.2\ConsultAPI.pdb
