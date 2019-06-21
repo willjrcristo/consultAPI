@@ -12591,11 +12591,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\willj\\source\\repos\\ConsultAPI\\ConsultAPI\\ConsultAPI.csproj",
+      "projectUniqueName": "C:\\Users\\willj\\source\\repos\\Consult\\ConsultAPI\\ConsultAPI\\ConsultAPI.csproj",
       "projectName": "ConsultAPI",
-      "projectPath": "C:\\Users\\willj\\source\\repos\\ConsultAPI\\ConsultAPI\\ConsultAPI.csproj",
+      "projectPath": "C:\\Users\\willj\\source\\repos\\Consult\\ConsultAPI\\ConsultAPI\\ConsultAPI.csproj",
       "packagesPath": "C:\\Users\\willj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\willj\\source\\repos\\ConsultAPI\\ConsultAPI\\obj\\",
+      "outputPath": "C:\\Users\\willj\\source\\repos\\Consult\\ConsultAPI\\ConsultAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

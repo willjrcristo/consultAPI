@@ -18,13 +18,7 @@ namespace ConsultAPI.Controllers
         private readonly ConsultRepository _repository;
         public ConsultController(ConsultRepository context)
         {
-            _repository = context;
-
-            /*if (_context.Consults.Count() == 0)
-            {
-                _context.Consults.Add(new Consult { id = 1, patient_name = "Will" });
-                _context.SaveChanges();
-            }*/
+            _repository = context;            
         }
 
         //GET: api/Consult
@@ -56,8 +50,6 @@ namespace ConsultAPI.Controllers
         {
             var consultValidation = new ConsultValidation();
 
-            //consultValidation.validStartBeforeEnd();
-            //consultValidation.validRange(_repository);
             consultValidation.allValidations(_repository, consult, null);
 
             Console.WriteLine("Adding row...");
